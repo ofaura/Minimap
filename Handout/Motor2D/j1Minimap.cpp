@@ -97,8 +97,6 @@ bool j1Minimap::CleanUp()
 
 	if (SDL_RenderClear(map_renderer) == 0)
 		map_renderer = nullptr;
-	else
-		LOG("Could not clear the renderer! SDL_Error: %s\n", SDL_GetError());
 
 	SDL_DestroyTexture(minimap_tex);
 	SDL_FreeSurface(map_surface);

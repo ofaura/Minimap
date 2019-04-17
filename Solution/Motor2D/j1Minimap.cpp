@@ -47,14 +47,9 @@ bool j1Minimap::Start()
 		// You have to add the x & y offsets
 		map_surface = SDL_CreateRGBSurface(0, minimap_width + x_offset, minimap_height + y_offset, 32, 0x00ff0000, 0x0000ff00, 0x000000ff, 0xff000000);	
 
-		if (map_surface == NULL)
-			LOG("SDL_CreateRGBSurface() failed: %s", SDL_GetError());
-
 		// TODO 3: Use the function SDL_CreateSoftwareRenderer() to create a 2D software rendering context for a surface
 		// Assign it to the variable "map_renderer"
 		map_renderer = SDL_CreateSoftwareRenderer(map_surface);
-		if (map_renderer == NULL)
-			LOG("Could not create the renderer! SDL_Error: %s\n", SDL_GetError());
 
 		tex = App->tex->Load("maps/isometric_grass_and_water.png", map_renderer);
 	}
@@ -103,8 +98,6 @@ bool j1Minimap::CleanUp()
 
 	if (SDL_RenderClear(map_renderer) == 0)
 		map_renderer = nullptr;
-	else
-		LOG("Could not clear the renderer! SDL_Error: %s\n", SDL_GetError());
 
 	SDL_DestroyTexture(minimap_tex);
 	SDL_FreeSurface(map_surface);
