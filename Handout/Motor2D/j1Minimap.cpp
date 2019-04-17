@@ -93,12 +93,14 @@ bool j1Minimap::PostUpdate()
 bool j1Minimap::CleanUp()
 {
 	App->tex->UnLoad(tex);
+	App->tex->UnLoad(minimap_tex);
 
 	if (SDL_RenderClear(map_renderer) == 0)
 		map_renderer = nullptr;
 	else
 		LOG("Could not clear the renderer! SDL_Error: %s\n", SDL_GetError());
 
+	SDL_DestroyTexture(minimap_tex);
 	SDL_FreeSurface(map_surface);
 
 	return true;
