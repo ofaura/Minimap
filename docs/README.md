@@ -50,10 +50,12 @@ You can always give the possibility to the player to remove or not the minimap i
 
 
 # Implementation
-To create a minimap we will follow a series of TODO's to know the steps to make a basic minimap module. Our goal is to blit to a screen corner the minimap, which it will be the whole map and it will show the position of the player and the enemies, a rectangle of the part you are seeing, and the possibility to move the camera through the minimap. 
-
+To create a minimap we will follow a series of TODO's to know the steps to make a basic minimap module. Our goal is to blit to a screen corner the minimap, which it will be the whole map and it will show the position of the player and the enemies, a rectangle of the part you are seeing, and the possibility to move the camera through the minimap.
 
 This is our goal:
+
+
+![TODO's Goal](Images/todo_goal.GIF "Goal")
 
 
 If you execute the game, you should see this untill TODO 4 included:
