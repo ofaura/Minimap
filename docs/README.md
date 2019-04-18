@@ -11,6 +11,7 @@ The common elements usually included in minimaps are the position of the player,
 # Where should it be located?
 Depending on the videogame genre, there are some conventions on where to locate the minimap.
 * **MOBA games** place the minimap at the bottom.
+![MOBA Minimaps](Images/moba.png "LoL - Heroes of the Storm - Dota 2")
 * **Strategy games** usually place the minimap at the bottom left.
 * **MMORPG's** place the minimap at the right and mostly at the top.
 * **Racing games** place the minimap at the left.
