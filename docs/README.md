@@ -53,3 +53,16 @@ You can always give the possibility to the player to remove or not the minimap i
 To create a minimap we will follow a series of TODO's to know the steps to make a basic minimap module. Our goal is to blit to a screen corner the minimap, which it will be the whole map and it will show the position of the player and the enemies, a rectangle of the part you are seeing, and the possibility to move the camera through the minimap. 
  ![TODO's Goal](Images/todo_goal.GIF "Goal")
 
+
+## TODO 1
+```
+ // TODO 1: Initialize the variable "map_width" to obtain the width of the map in pixels
+ // Initialize the variable "minimap_scale" to get the relation between the map width and
+ // the minimap width (defined at config.xml and initialized in Awake())
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_1.JPG">
+  </p>
+</details>
