@@ -3,6 +3,15 @@
 # What is a Minimap?
 A minimap is an element of the HUD usually placed at a screen corner that represents a map, but its size is much smaller. The function of a minimap is to help the player get orineted.
 
-The common elements usually included in minimaps are the position of the player, the allies and enemies, buildings, terrain, and the main objective. Elements that are not visible for the player, should not appear in the minimap.   
+The common elements usually included in minimaps are the position of the player, the allies and enemies, buildings, terrain, and points of interests. Elements that are not visible for the player, should not appear in the minimap.   
 
 ![Minimap](Images/minimaps.png "Minimaps")
+
+
+# Where should it be located?
+Depending on the videogame genre, there are some conventions on where to locate the minimap.
+* **MOBA games** place the minimap at the bottom.
+* **Strategy games** usually place the minimap at the bottom left.
+* **MMORPG's** place the minimap at the right and mostly at the top.
+* **Racing games** place the minimap at the left.
+* **FPS** mainly place the minimap at the left.
