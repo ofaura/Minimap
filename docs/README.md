@@ -153,7 +153,7 @@ This is our goal:
 ```
  // TODO 8: Fill the parameters of "map_camera"	to see in the minimap which part of the map are you seeing
  // Take into account that it is an isometric map
-	// Reminder: The camera values are negative
+ // Reminder: The camera values are negative
 ```
 <details> 
   <summary>Solution (click to open)</summary>
