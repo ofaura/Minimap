@@ -124,6 +124,9 @@ This is our goal:
 </details>
 
 
+After implementing TODO 5, you should see:
+ ![TODO 5](Images/TODO_5-6.JPG "TODO 5")
+
 ## TODO 6
 ```
  // TODO 6: Initialize the variables "pos_x" and "pos_y" to get the position of an entity IN the minimap
@@ -149,6 +152,10 @@ This is our goal:
 </details>
 
 
+After implementing TODO 5, you should see:
+ ![TODO 7](Images/TODO_7.JPG "TODO 5")
+ 
+ 
 ## TODO 8
 ```
  // TODO 8: Fill the parameters of "map_camera"	to see in the minimap which part of the map are you seeing
@@ -162,6 +169,10 @@ This is our goal:
   </p>
 </details>
 
+
+After implementing TODO 5, you should see:
+ ![TODO 8](Images/TODO_8.JPG "TODO 5")
+ 
 
 ## TODO 9
 ```
