@@ -32,3 +32,8 @@ Depending on the videogame genre, there are some conventions on where to locate 
 ![FPS games](Images/fps.png "Battlefield V - CS: GO - Black Ops IV")
 
 
+# Old vs Modern Minimaps. Pros and Cons
+The old minimaps where more effective, they show you where the player is so he can get to acknowledge of surrounding to get somewhere new. Minimaps like this are simple but they work, they do not tell you where do you have to go, so they do not make feel things linear and encourages the player to explore.
+With modern games, the minimap shows where every enemy is and also provides the layout of an area without letting you explore it first. This removes the element of surprise when the enemies attack you and also a part of discovery. You can basically play the game looking to the minimap, and that is the major problem. The player spends a lot of the time looking to the minimap and not to the whole screen.
+ ![Old vs Modern Minimaps](Images/old_modern.png "Assassin's Creed IV: Black Flag - Legend of Zelda")
+
