@@ -198,3 +198,19 @@ After implementing TODO 5, you should see:
      <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_10.JPG">
   </p>
 </details>
+
+
+# Webgraphy
+[Mini-map](https://en.wikipedia.org/wiki/Mini-map)
+
+
+[Mini map by Jack Davies](https://gameuipatterns.com/gameui/mini-map/)
+
+
+[Where should we place the mini map? by Jacek Sliwinski](https://www.gamasutra.com/blogs/JacekSliwinski/20130121/185119/Where_should_we_place_the_mini_map.php)
+
+
+[Death to the mini-map by Martin Robinson](https://www.eurogamer.net/articles/2014-11-01-its-time-to-tear-up-the-mini-map)
+
+
+[Mini-Maps Are Stupid by Razbuten](https://www.youtube.com/watch?v=4FfG-4HKoWQ)
