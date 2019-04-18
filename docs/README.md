@@ -125,7 +125,7 @@ This is our goal:
 
 
 After implementing TODO 5, you should see:
- ![TODO 5](Images/TODO_5-6.JPG "TODO 5")
+ ![TODO 5](Images/TODOS_in-game/TODO_5-6.JPG "TODO 5")
 
 ## TODO 6
 ```
@@ -153,7 +153,7 @@ After implementing TODO 5, you should see:
 
 
 After implementing TODO 5, you should see:
- ![TODO 7](Images/TODO_7.JPG "TODO 5")
+ ![TODO 7](Images/TODOS_in-game/TODO_7.JPG "TODO 5")
  
  
 ## TODO 8
@@ -171,7 +171,7 @@ After implementing TODO 5, you should see:
 
 
 After implementing TODO 5, you should see:
- ![TODO 8](Images/TODO_8.JPG "TODO 5")
+ ![TODO 8](Images/TODOS_in-game/TODO_8.JPG "TODO 5")
  
 
 ## TODO 9
