@@ -54,7 +54,11 @@ To create a minimap we will follow a series of TODO's to know the steps to make 
 
 
 This is our goal:
- ![TODO's Goal](Images/todo_goal.GIF "Goal")
+![TODO's Goal](Images/todo_goal.GIF "Goal")
+
+
+If you execute the game, you should see this untill TODO 4 included:
+![TODO 1-4](Images/TODOS_in-game/TODO_0-4.JPG "TODO 1-4")
 
 
 ## TODO 1
