@@ -38,3 +38,15 @@ With modern games, the minimap shows where every enemy is and also provides the 
  ![Old vs Modern Minimaps](Images/old_modern.png "Assassin's Creed IV: Black Flag - Legend of Zelda")
 
 
+# Does my game need a Minimap?
+It depends on the kind of game you are developing and the use you will give to the minimap. You have to take to account if the minimap conflicts with some of your game pillars, and if it does, evaluate how much does it affect and try to find possible solutions. For instance, if one of your games pillars is to fight all the enemies, do not put on the minimap the area where they are looking, because it gives the possibility to the player to avoid fighting. Only the necessary features should be included.
+As a general rule, a minimap should be used:
+* When the level or world is large.
+* When there are multiple ways to reach the same destination.
+* When there are lots of different points of interest.
+* If you are doing an RTS, it is a must.
+
+You can always give the possibility to the player to remove or not the minimap if it does not affect to the core of the game.
+
+
+
