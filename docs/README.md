@@ -66,3 +66,121 @@ To create a minimap we will follow a series of TODO's to know the steps to make 
      <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_1.JPG">
   </p>
 </details>
+
+
+## TODO 2
+```
+ // TODO 2: Use the function SDL_CreateRGBSurface() to allocate a RGB surface to the variable "map_surface"
+ // The last four parameters should be: 0x00ff0000, 0x0000ff00, 0x000000ff, 0xff000000 in order to be totally transparent
+ // You have to add the x & y offsets
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_2.JPG">
+  </p>
+</details>
+
+
+## TODO 3
+```
+ // TODO 3: Use the function SDL_CreateSoftwareRenderer() to create a 2D software rendering context for a surface
+ // Assign it to the variable "map_renderer"
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_3.JPG">
+  </p>
+</details>
+
+
+## TODO 4
+```
+ // TODO 4: Blit the minimap. You need to pass all the parameters until renderer included.
+ // As it is an isometric map, keep in mind that x == 0 is in the middle of the map.
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_4.JPG">
+  </p>
+</details>
+
+
+## TODO 5
+```
+ // TODO 5: Use the function SDL_CreateTextureFromSurface to create a texture from an existing surface
+ // Assign it to the variable "map_tex". Use the renderer from render.h
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_5.JPG">
+  </p>
+</details>
+
+
+## TODO 6
+```
+ // TODO 6: Initialize the variables "pos_x" and "pos_y" to get the position of an entity IN the minimap
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_6.JPG">
+  </p>
+</details>
+
+
+## TODO 7
+```
+ // TODO 7: Fill the missing parameters of DrawQuad() function.
+ // Take into account that it is an isometric map
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_7.JPG">
+  </p>
+</details>
+
+
+## TODO 8
+```
+ // TODO 8: Fill the parameters of "map_camera"	to see in the minimap which part of the map are you seeing
+ // Take into account that it is an isometric map
+	// Reminder: The camera values are negative
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_8.JPG">
+  </p>
+</details>
+
+
+## TODO 9
+```
+ // TODO 9: Assign to "map_x" and "map_y" the mouse position respect the minimap, to the
+ // position that corresponds to the map
+ // Take into account that it is an isometric map
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_9.JPG">
+  </p>
+</details>
+
+
+## TODO 10
+```
+ // TODO 10: Assign to the center of the camera, the coordinates "map_x" and "map_y"
+```
+<details> 
+  <summary>Solution (click to open)</summary>
+  <p> 
+     <img src="https://github.com/ofaura/Minimap/blob/master/docs/Images/TODO's%20Solutions/TODO_10.JPG">
+  </p>
+</details>
