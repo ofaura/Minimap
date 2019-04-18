@@ -127,6 +127,7 @@ This is our goal:
 After implementing TODO 5, you should see:
  ![TODO 5](Images/TODOS_in-game/TODO_5-6.JPG "TODO 5")
 
+
 ## TODO 6
 ```
  // TODO 6: Initialize the variables "pos_x" and "pos_y" to get the position of an entity IN the minimap
