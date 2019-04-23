@@ -158,7 +158,7 @@ After implementing TODO 5, you should see:
 </details>
 
 
-After implementing TODO 5, you should see:
+After implementing TODO 7, you should see:
  ![TODO 7](Images/TODOS_in-game/TODO_7.JPG "TODO 5")
  
  
